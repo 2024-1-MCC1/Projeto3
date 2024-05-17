@@ -16,7 +16,7 @@
 
 <p align="center">
 <img src="https://github.com/2024-1-MCC1/Projeto3/blob/3f6e8a9c3dd0260ec222b6e1b066bcf6d95ece8b/Imagens/Play.png" alt="Eco x Ego" border="0">
-  Game by Gabriel Marussi <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>
+  Game Design by Gabriel Marussi license CC BY-SA 3.0
 </p>
 
 <br><br>
@@ -35,12 +35,10 @@ O projeto solicitado pela FECAP é um jogo educativo focado nos Objetivos de Des
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
   &emsp; &emsp;|Assets<br>
-  &emsp; &emsp;|Packages<br>  
-  &emsp; &emsp;|Packages<br>  
   &emsp; &emsp;|Packages<br>
   &emsp; &emsp;|ProjectSettings<br>
   &emsp; &emsp;|Temp<br>
-  &emsp; &emsp;|UserSettings<br>  
+  &emsp; &emsp;|UserSettings<br>
   &emsp; &emsp;|obj/Debug<br>
   &emsp; &emsp;|.vsconfig<br>
 |.gitignore<br>
