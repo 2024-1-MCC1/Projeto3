@@ -4,7 +4,7 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Projeto Integrador
 
 ## Grupo_3_Eco_Go
 
@@ -16,7 +16,7 @@
 
 <p align="center">
 <img src="https://github.com/2024-1-MCC1/Projeto3/blob/3f6e8a9c3dd0260ec222b6e1b066bcf6d95ece8b/Imagens/Play.png" alt="Eco x Ego" border="0">
-  Game Design by Gabriel Marussi license CC BY-SA 3.0
+  Game Design by <a href= "www.linkedin.com/in/gabrielmarussi">Gabriel Marussi</a> License CC BY-SA 3.0
 </p>
 
 <br><br>
