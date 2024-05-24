@@ -41,12 +41,12 @@ Buscamos mostrar uma experiência envolvente, inspirando os jogadores a consider
   &emsp; &emsp; &emsp;|Design<br>
   &emsp; &emsp; &emsp;|Diálogo<br>
   &emsp; &emsp; &emsp;|Materiais<br> 
-  &emsp; &emsp; &emsp; &emsp;Fogo<br>
-  &emsp; &emsp; &emsp; &emsp;Poço<br>
-  &emsp; &emsp; &emsp; &emsp;Prefab<br>
-  &emsp; &emsp; &emsp; &emsp;TextMesh Pro<br>
-  &emsp; &emsp; &emsp; &emsp;Totems<br>
-  &emsp; &emsp; &emsp; &emsp;Brilho.mat<br>
+  &emsp; &emsp; &emsp; &emsp;|Fogo<br>
+  &emsp; &emsp; &emsp; &emsp;|Poço<br>
+  &emsp; &emsp; &emsp; &emsp;|Prefab<br>
+  &emsp; &emsp; &emsp; &emsp;|TextMesh Pro<br>
+  &emsp; &emsp; &emsp; &emsp;|Totems<br>
+  &emsp; &emsp; &emsp; &emsp;|Brilho.mat<br>
   &emsp; &emsp; &emsp;|Menu<br>
   &emsp; &emsp; &emsp; &emsp;|Menu.unity<br>
   &emsp; &emsp; &emsp; &emsp;|ForestDestroyed.unity<br>
@@ -89,19 +89,15 @@ Encontre o "Eco x Ego.exe" na pasta de Download e execute-o como qualquer outro 
 Ou clique nesse link abaixo para realizar a instalação direta:
 <a href="https://github.com/2024-1-MCC1/Projeto3/raw/bf04605349baec43f6bfba62593c8ac12cb1425f/Documentos/Eco%20x%20Ego.exe">Baixar o Executável do Jogo</a>
 
-<b href="https://github.com/2024-1-MCC1/Projeto3/blob/bf04605349baec43f6bfba62593c8ac12cb1425f/Documentos/Eco%20x%20Ego.exe">Rodar o Jogo</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
-
 ## 💻 Configuração para Desenvolvimento
 
 Para abrir este projeto você necessita das seguintes ferramentas:
 
 <a href="https://unity.com/pt/download">Unity</a>
 
+Quando instlado a plataforma, siga as etapas:
 ```sh
-Faça a instalaçãoo do Unity
+Faça a instalação do Unity
 Adicione a pasta "Eco x Ego"
 E clique para abrir esse arquivo
 Abre a opção "Game" dentro do unity
