@@ -83,19 +83,11 @@ Buscamos mostrar uma experiência envolvente, inspirando os jogadores a consider
 
 ## 🛠 Instalação
 
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!
 Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+<a href="https://github.com/2024-1-MCC1/Projeto3/blob/bf04605349baec43f6bfba62593c8ac12cb1425f/Documentos/Eco%20x%20Ego.exe">Rodar o Jogo</a>
 
 <b href="https://github.com/2024-1-MCC1/Projeto3/blob/bf04605349baec43f6bfba62593c8ac12cb1425f/Documentos/Eco%20x%20Ego.exe">Rodar o Jogo</b>
 
@@ -106,7 +98,7 @@ Encontre o index.html na pasta executáveis e execute-o como uma página WEB (at
 
 Para abrir este projeto você necessita das seguintes ferramentas:
 
--<a href="https://unity.com/pt/download">Unity</a>
+<a href="https://unity.com/pt/download">Unity</a>
 
 ```sh
 Faça a instalaçãoo do Unity
