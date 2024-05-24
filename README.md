@@ -110,12 +110,12 @@ Aqui segue todas as atualizações realizadas, o Projeto3, segue só com a últi
 * Eco x Ego - 25/05/2024
     * Adicionado documentos e fotos 
     * Enviado arquivo final em Github
-* Cidade Fantasia (Versão 5.0) - 24/05/2024
+* Eco x Ego (Versão 5.0) - 24/05/2024
     * Finalizado menu e botões de configurações
     * Adicionado botões de pause
     * Adicionado música em todas as cenas
     * Feita atualização de documentos
-* Cidade Fantasia (Versão 4.0) - 20/05/2024
+* Eco x Ego (Versão 4.0) - 20/05/2024
     * Feito integração de todas cenas  
     * Melhorado dialogos em cenas com interações
     * Melhorado script de movimento com corrida
@@ -142,10 +142,14 @@ Aqui segue todas as atualizações realizadas, o Projeto3, segue só com a últi
 
 ## 🎓 Referências
 
-Aqui estão as referências usadas no projeto.
+Aqui estão as referências e assets usados no projeto. Todos os assest com licensa de Unity <a href="https://unity.com/pt/legal/as-terms">"Standard Unity Asset Store EULA"</a>, onde permite: Incorporar, Reproduzir e Monetizar o Ativo, com exceção aos artigos estabelecido em 2.2.1.1 do contrato.
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://creativecommons.org/share-your-work/>
-4. <https://freesound.org/>
-5. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+1. Cenário: <https://assetstore.unity.com/packages/3d/environments/fantasy-landscape-103573>
+2. Player: <https://assetstore.unity.com/packages/3d/characters/humanoids/3d-anime-game-character-female-267371>
+3. Animação de Movimento: <https://assetstore.unity.com/packages/3d/animations/basic-motions-free-154271>
+4. Eco: <https://assetstore.unity.com/packages/3d/characters/slime-rabbit-144436>
+5. Diálogo: <https://assetstore.unity.com/packages/tools/utilities/dialogue-editor-168329>
+6. Fogo: <https://assetstore.unity.com/packages/vfx/particles/fire-explosions/free-fire-vfx-266227>
+7. Totems: <https://assetstore.unity.com/packages/3d/elemental-magic-totems-59522>
+8. Imagem de Menu por: <https://pixabay.com/pt/>
+9. Música por:
