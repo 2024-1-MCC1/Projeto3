@@ -29,18 +29,20 @@ Buscamos mostrar uma experiência envolvente, inspirando os jogadores a consider
 -Raiz<br>
 |<br>
 |-->Documentos<br>
-  &emsp;|Placeholder.txt<br>
+  &emsp;|Projeto_de_Extensão.dock<br>
+ |-->Executáveis<br>
+   &emsp;|Eco x Ego.exe<br> 
 |-->Imagens<br>
   &emsp;|Play.png<br>
 |-->Src<br>
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
-  &emsp; &emsp;|Assets<br>
+  &emsp; &emsp;|-->Assets<br>
   &emsp; &emsp; &emsp;|Animações<br>
   &emsp; &emsp; &emsp;|Cenas<br>
   &emsp; &emsp; &emsp;|Design<br>
   &emsp; &emsp; &emsp;|Diálogo<br>
-  &emsp; &emsp; &emsp;|Materiais<br> 
+  &emsp; &emsp; &emsp;|-->Materiais<br> 
   &emsp; &emsp; &emsp; &emsp;|Fogo<br>
   &emsp; &emsp; &emsp; &emsp;|Poço<br>
   &emsp; &emsp; &emsp; &emsp;|Prefab<br>
@@ -52,24 +54,24 @@ Buscamos mostrar uma experiência envolvente, inspirando os jogadores a consider
   &emsp; &emsp; &emsp; &emsp;|ForestDestroyed.unity<br>
   &emsp; &emsp; &emsp; &emsp;|Forest.unity<br>
   &emsp; &emsp; &emsp; &emsp;|End.unity<br>
-  &emsp; &emsp; &emsp;|Scripts<br>
-  &emsp; &emsp; &emsp;|Resources<br>
+  &emsp; &emsp; &emsp;|-->Resources<br>
   &emsp; &emsp; &emsp; &emsp;|BillingMode.json<br>
-  &emsp; &emsp; &emsp; &emsp;|Diálogo<br>
+  &emsp; &emsp; &emsp;|-->Scripts<br>
+  &emsp; &emsp; &emsp; &emsp;-->|Diálogo<br>
   &emsp; &emsp; &emsp; &emsp; &emsp;|Collectible.cs<br>
   &emsp; &emsp; &emsp; &emsp; &emsp;|CollectionManager.cs<br>
   &emsp; &emsp; &emsp; &emsp; &emsp;|ConversationStart.cs<br>
-  &emsp; &emsp; &emsp; &emsp;|Interações<br>
+  &emsp; &emsp; &emsp; &emsp;|-->Interações<br>
   &emsp; &emsp; &emsp; &emsp; &emsp;|BackgroundMusic.cs<br>
   &emsp; &emsp; &emsp; &emsp; &emsp;|LevelLoader.cs<br>
   &emsp; &emsp; &emsp; &emsp; &emsp;|StartFire.cs<br>
   &emsp; &emsp; &emsp; &emsp; &emsp;|Visibility.cs<br>
-  &emsp; &emsp; &emsp; &emsp;|Menu<br>
+  &emsp; &emsp; &emsp; &emsp;|-->Menu<br>
   &emsp; &emsp; &emsp; &emsp; &emsp;|Menu.cs<br>
   &emsp; &emsp; &emsp; &emsp; &emsp;|PauseMenu.cs<br> 
   &emsp; &emsp; &emsp; &emsp; &emsp;|ButtonPause.cs<br>
   &emsp; &emsp; &emsp; &emsp; &emsp;|End.cs<br>
-  &emsp; &emsp; &emsp; &emsp;|Movimento<br>
+  &emsp; &emsp; &emsp; &emsp;|-->Movimento<br>
   &emsp; &emsp; &emsp; &emsp; &emsp;|MouseAround.cs<br>
   &emsp; &emsp; &emsp; &emsp; &emsp;|Movement.cs<br>
   &emsp; &emsp;|Packages<br>
@@ -86,8 +88,7 @@ Buscamos mostrar uma experiência envolvente, inspirando os jogadores a consider
 <b>Windows:</b>
 
 Encontre o "Eco x Ego.exe" na pasta de Download e execute-o como qualquer outro programa.
-Ou clique nesse link abaixo para realizar a instalação direta:
-<a href="https://github.com/2024-1-MCC1/Projeto3/raw/bf04605349baec43f6bfba62593c8ac12cb1425f/Documentos/Eco%20x%20Ego.exe">Baixar o Executável do Jogo</a>
+Ou <a href="https://github.com/2024-1-MCC1/Projeto3/raw/bf04605349baec43f6bfba62593c8ac12cb1425f/Documentos/Eco%20x%20Ego.exe">clique aqui</a> para realizar a instalação direta.
 
 ## 💻 Configuração para Desenvolvimento
 
