@@ -15,7 +15,7 @@
 ## Descrição:
 
 <p align="center">
-<img src="[https://github.com/2024-1-MCC1/Projeto3/blob/3f6e8a9c3dd0260ec222b6e1b066bcf6d95ece8b/Imagens/Play.png](https://github.com/2024-1-MCC1/Projeto3/blob/main/Imagens/Play.png)" alt="Eco x Ego" border="0">
+<img src="https://github.com/2024-1-MCC1/Projeto3/blob/73ab3e6ca10bf70795727eabff7e3570c12648a3/Imagens/Play.png" alt="Eco x Ego" border="0">
   Game Design by <a href= "www.linkedin.com/in/gabrielmarussi">Gabriel Marussi</a> License CC BY-SA 3.0
 </p>
 
