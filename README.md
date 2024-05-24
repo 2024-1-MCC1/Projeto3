@@ -85,9 +85,9 @@ Buscamos mostrar uma experiência envolvente, inspirando os jogadores a consider
 
 <b>Windows:</b>
 
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-<a href="https://github.com/2024-1-MCC1/Projeto3/blob/bf04605349baec43f6bfba62593c8ac12cb1425f/Documentos/Eco%20x%20Ego.exe">Rodar o Jogo</a>
+Encontre o "Eco x Ego.exe" na pasta de Download e execute-o como qualquer outro programa.
+Ou clique nesse link abaixo para realizar a instalação direta:
+<a href="https://github.com/2024-1-MCC1/Projeto3/raw/bf04605349baec43f6bfba62593c8ac12cb1425f/Documentos/Eco%20x%20Ego.exe">Baixar o Executável do Jogo</a>
 
 <b href="https://github.com/2024-1-MCC1/Projeto3/blob/bf04605349baec43f6bfba62593c8ac12cb1425f/Documentos/Eco%20x%20Ego.exe">Rodar o Jogo</b>
 
