@@ -49,7 +49,7 @@ Buscamos mostrar uma experiência envolvente, inspirando os jogadores a consider
   &emsp; &emsp; &emsp; &emsp;|TextMesh Pro<br>
   &emsp; &emsp; &emsp; &emsp;|Totems<br>
   &emsp; &emsp; &emsp; &emsp;|Brilho.mat<br>
-  &emsp; &emsp; &emsp;|Menu<br>
+  &emsp; &emsp; &emsp;|-->Cenas<br>
   &emsp; &emsp; &emsp; &emsp;|Menu.unity<br>
   &emsp; &emsp; &emsp; &emsp;|ForestDestroyed.unity<br>
   &emsp; &emsp; &emsp; &emsp;|Forest.unity<br>
@@ -57,7 +57,7 @@ Buscamos mostrar uma experiência envolvente, inspirando os jogadores a consider
   &emsp; &emsp; &emsp;|-->Resources<br>
   &emsp; &emsp; &emsp; &emsp;|BillingMode.json<br>
   &emsp; &emsp; &emsp;|-->Scripts<br>
-  &emsp; &emsp; &emsp; &emsp;-->|Diálogo<br>
+  &emsp; &emsp; &emsp; &emsp;|-->Diálogo<br>
   &emsp; &emsp; &emsp; &emsp; &emsp;|Collectible.cs<br>
   &emsp; &emsp; &emsp; &emsp; &emsp;|CollectionManager.cs<br>
   &emsp; &emsp; &emsp; &emsp; &emsp;|ConversationStart.cs<br>
@@ -76,9 +76,7 @@ Buscamos mostrar uma experiência envolvente, inspirando os jogadores a consider
   &emsp; &emsp; &emsp; &emsp; &emsp;|Movement.cs<br>
   &emsp; &emsp;|Packages<br>
   &emsp; &emsp;|ProjectSettings<br>
-  &emsp; &emsp;|Temp<br>
   &emsp; &emsp;|UserSettings<br>
-  &emsp; &emsp;|obj/Debug<br>
   &emsp; &emsp;|.vsconfig<br>
 |.gitignore<br>
 |README.md<br>
@@ -107,20 +105,37 @@ E agora é só jogar
 
 ## 🗃 Histórico de lançamentos
 
-A cada atualização os detalhes devem ser lançados aqui.
+Aqui segue todas as atualizações realizadas, o Projeto3, segue só com a última "Eco x Ego". Caso queiram ver todos as versões versão <a href="https://github.com/gabmarussi/Projeto_Integrador">clique aqui</a> e você verá meu repositorio com todos os arquivos mostrando a evolução.
 
-* 0.2.1 - 25/01/2022
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0 - 15/01/2022
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0 - 10/01/2022
+* Eco x Ego - 25/05/2024
+    * Adicionado documentos e fotos 
+    * Enviado arquivo final em Github
+* Cidade Fantasia (Versão 5.0) - 24/05/2024
+    * Finalizado menu e botões de configurações
+    * Adicionado botões de pause
+    * Adicionado música em todas as cenas
+    * Feita atualização de documentos
+* Cidade Fantasia (Versão 4.0) - 20/05/2024
+    * Feito integração de todas cenas  
+    * Melhorado dialogos em cenas com interações
+    * Melhorado script de movimento com corrida
+    * Finalizado diálogos complexos com eventos
+    * Finalizado mecãnica de coleta/destruição 
+* Cidade Fantasia (Versão 3.0) - 10/05/2024
+    * Melhorado cenário e cenas
+    * Melhorado script de movimento com laterais
+    * Criado cena: "ForestDestroyed" e "End"
+    * Adicionado transições entre cenas
+    * Criado dialogos básicos
+    * Criado mecânica de coleta/destruição de objetos
+* Cidade Fantasia (Versão 2.0)- 01/05/2024
     * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
+    * Movimento funcionando
+    * Duas cenas criadas: "Forest" e "Menu" 
+* Cidade Fantasia (Versão 1.0) - 20/04/2024
+    * Criação e esboço de Mapas
+    * Esboço de Personagens
+    * Começo prático em Unity
 
 ## 📋 Licença/License
 
