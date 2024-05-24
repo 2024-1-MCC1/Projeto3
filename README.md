@@ -97,27 +97,23 @@ Coloque código do prompt de comnando se for necessário
 Não há instalação! Apenas executável!
 Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>HTML:</b>
+<b href="https://github.com/2024-1-MCC1/Projeto3/blob/bf04605349baec43f6bfba62593c8ac12cb1425f/Documentos/Eco%20x%20Ego.exe">Rodar o Jogo</b>
 
 Não há instalação!
 Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
 ## 💻 Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
 Para abrir este projeto você necessita das seguintes ferramentas:
 
--<a href="https://godotengine.org/download">GODOT</a>
+-<a href="https://unity.com/pt/download">Unity</a>
 
 ```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
+Faça a instalaçãoo do Unity
+Adicione a pasta "Eco x Ego"
+E clique para abrir esse arquivo
+Abre a opção "Game" dentro do unity
+E agora é só jogar
 ```
 
 ## 🗃 Histórico de lançamentos
