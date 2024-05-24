@@ -152,4 +152,4 @@ Aqui estão as referências e assets usados no projeto. Todos os assest com lice
 6. Fogo: <https://assetstore.unity.com/packages/vfx/particles/fire-explosions/free-fire-vfx-266227>
 7. Totems: <https://assetstore.unity.com/packages/3d/elemental-magic-totems-59522>
 8. Imagem de Menu por: <https://pixabay.com/pt/>
-9. Música por:
+9. Música por: <https://pixabay.com/pt/music/>
