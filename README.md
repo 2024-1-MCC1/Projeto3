@@ -4,7 +4,7 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Projeto Integrador
+# Eco x Ego
 
 ## Grupo_3_Eco_Go
 
@@ -12,18 +12,19 @@
 
 ## Professores Orientadores: Dr. Victor Von Doom
 
-## Descrição
+## Descrição:
 
 <p align="center">
-<img src="https://github.com/2024-1-MCC1/Projeto3/blob/3f6e8a9c3dd0260ec222b6e1b066bcf6d95ece8b/Imagens/Play.png" alt="Eco x Ego" border="0">
+<img src="https://github.com/2024-1-MCC1/Projeto3/blob/73ab3e6ca10bf70795727eabff7e3570c12648a3/Imagens/Play.png" alt="Eco x Ego" border="0">
   Game Design by <a href= "www.linkedin.com/in/gabrielmarussi">Gabriel Marussi</a> License CC BY-SA 3.0
 </p>
 
+Meu projeto é uma colaboração com a FECAP, retratando-se como um jogo educativo desenvolvido na plataforma Unity utilizando a linguagem C#. Ele tem como objetivo fundamental promover uma mudança de mentalidade alinhada aos Objetivos de Desenvolvimento Sustentável (ODS) da ONU, com um foco a mais nos objetivos 13, 14 e 15.
 <br><br>
-O projeto solicitado pela FECAP é um jogo educativo focado nos Objetivos de Desenvolvimento Sustentável (ODS) da ONU. Nosso objetivo é conscientizar e engajar os jogadores de forma intuitiva, demonstrando que cada indivíduo tem o poder de promover mudanças significativas. Através dessa experiência ambientacional e interativa, nosso jogo busca orientar os jogadores sobre a importância dos ODS e como suas ações podem contribuir para um mundo mais sustentável.
+Buscamos mostrar uma experiência envolvente, inspirando os jogadores a considerarem questões ambientais mais importantes, adotando comportamento e prática mais sustentável e responsável. Através da narrativa estimulante e interações, meu projeto contribui para essa conscientização em prol de um futuro mais justo e sustentável.
 <br><br>
 
-## 🛠 Estrutura de pastas
+## 🛠 Estrutura de pastas:
 
 -Raiz<br>
 |<br>
@@ -35,6 +36,42 @@ O projeto solicitado pela FECAP é um jogo educativo focado nos Objetivos de Des
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
   &emsp; &emsp;|Assets<br>
+  &emsp; &emsp; &emsp;|Animações<br>
+  &emsp; &emsp; &emsp;|Cenas<br>
+  &emsp; &emsp; &emsp;|Design<br>
+  &emsp; &emsp; &emsp;|Diálogo<br>
+  &emsp; &emsp; &emsp;|Materiais<br> 
+  &emsp; &emsp; &emsp; &emsp;Fogo<br>
+  &emsp; &emsp; &emsp; &emsp;Poço<br>
+  &emsp; &emsp; &emsp; &emsp;Prefab<br>
+  &emsp; &emsp; &emsp; &emsp;TextMesh Pro<br>
+  &emsp; &emsp; &emsp; &emsp;Totems<br>
+  &emsp; &emsp; &emsp; &emsp;Brilho.mat<br>
+  &emsp; &emsp; &emsp;|Menu<br>
+  &emsp; &emsp; &emsp; &emsp;|Menu.unity<br>
+  &emsp; &emsp; &emsp; &emsp;|ForestDestroyed.unity<br>
+  &emsp; &emsp; &emsp; &emsp;|Forest.unity<br>
+  &emsp; &emsp; &emsp; &emsp;|End.unity<br>
+  &emsp; &emsp; &emsp;|Scripts<br>
+  &emsp; &emsp; &emsp;|Resources<br>
+  &emsp; &emsp; &emsp; &emsp;|BillingMode.json<br>
+  &emsp; &emsp; &emsp; &emsp;|Diálogo<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|Collectible.cs<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|CollectionManager.cs<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|ConversationStart.cs<br>
+  &emsp; &emsp; &emsp; &emsp;|Interações<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|BackgroundMusic.cs<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|LevelLoader.cs<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|StartFire.cs<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|Visibility.cs<br>
+  &emsp; &emsp; &emsp; &emsp;|Menu<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|Menu.cs<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|PauseMenu.cs<br> 
+  &emsp; &emsp; &emsp; &emsp; &emsp;|ButtonPause.cs<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|End.cs<br>
+  &emsp; &emsp; &emsp; &emsp;|Movimento<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|MouseAround.cs<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|Movement.cs<br>
   &emsp; &emsp;|Packages<br>
   &emsp; &emsp;|ProjectSettings<br>
   &emsp; &emsp;|Temp<br>
