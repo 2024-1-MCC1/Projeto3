@@ -4,7 +4,7 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Projeto Integrador
 
 ## Grupo_3_Eco_Go
 
@@ -15,48 +15,34 @@
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+<img src="https://github.com/2024-1-MCC1/Projeto3/blob/3f6e8a9c3dd0260ec222b6e1b066bcf6d95ece8b/Imagens/Play.png" alt="Eco x Ego" border="0">
+  Game Design by <a href= "www.linkedin.com/in/gabrielmarussi">Gabriel Marussi</a> License CC BY-SA 3.0
 </p>
 
-
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
+O projeto solicitado pela FECAP é um jogo educativo focado nos Objetivos de Desenvolvimento Sustentável (ODS) da ONU. Nosso objetivo é conscientizar e engajar os jogadores de forma intuitiva, demonstrando que cada indivíduo tem o poder de promover mudanças significativas. Através dessa experiência ambientacional e interativa, nosso jogo busca orientar os jogadores sobre a importância dos ODS e como suas ações podem contribuir para um mundo mais sustentável.
 <br><br>
 
 ## 🛠 Estrutura de pastas
 
 -Raiz<br>
 |<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
+|-->Documentos<br>
+  &emsp;|Placeholder.txt<br>
+|-->Imagens<br>
+  &emsp;|Play.png<br>
+|-->Src<br>
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
-|readme.md<br>
-
-A pasta raiz contem dois arquivos que devem ser alterados:
-
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
-
-Há também 4 pastas que seguem da seguinte forma:
-
-<b>documentos</b>: Toda a documentação estará nesta pasta.
-
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
-
-<b>imagens</b>: Imagens do sistema
-
-<b>src</b>: Pasta que contém o código fonte.
+  &emsp; &emsp;|Assets<br>
+  &emsp; &emsp;|Packages<br>
+  &emsp; &emsp;|ProjectSettings<br>
+  &emsp; &emsp;|Temp<br>
+  &emsp; &emsp;|UserSettings<br>
+  &emsp; &emsp;|obj/Debug<br>
+  &emsp; &emsp;|.vsconfig<br>
+|.gitignore<br>
+|README.md<br>
 
 ## 🛠 Instalação
 
