@@ -153,3 +153,4 @@ Aqui estão as referências e assets usados no projeto. Todos os assest com lice
 7. Totems: <https://assetstore.unity.com/packages/3d/elemental-magic-totems-59522>
 8. Imagem de Menu por: <https://pixabay.com/pt/>
 9. Música por: <https://pixabay.com/pt/music/>
+10. Botão do Menu por: <https://pt.vecteezy.com/arte-vetorial/9726129-botao-de-pixel-art-estilo-pedra-para-jogo-e-app-interface-icone-vetor-para-jogo-8bit-em-fundo-branco>
