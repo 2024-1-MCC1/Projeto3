@@ -30,20 +30,20 @@ Buscamos mostrar uma experiência envolvente, inspirando os jogadores a consider
 |<br>
 |-->Documentos<br>
   &emsp;|Projeto_de_Extensão.dock<br>
- |-->Executáveis<br>
+ |-->Executável<br>
    &emsp;|Eco x Ego.exe<br> 
 |-->Imagens<br>
   &emsp;|Play.png<br>
 |-->Src<br>
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
-  &emsp; &emsp;|-->Assets<br>
-  &emsp; &emsp;|-->Packages<br>
-  &emsp; &emsp;|-->ProjectSettings<br>
-  &emsp; &emsp;|-->UserSettings<br>
-  &emsp; &emsp;|.vsconfig<br>
+  &emsp; &emsp;|-->Eco x Ego<br>
+  &emsp; &emsp; &emsp;|-->Assets<br>
+  &emsp; &emsp; &emsp;|-->Packages<br>
+  &emsp; &emsp; &emsp;|-->ProjectSettings<br>
 |.gitignore<br>
 |README.md<br>
+|<br>
 
 ## 🛠 Instalação
 
@@ -60,11 +60,13 @@ Baixar a plataforma <a href="https://unity.com/pt/download">Unity</a> e baixar a
 
 Siga as etapas:
 
+```sh
 - Faça a instalação do Unity.
 - Utilize a versão criada 2022.3.10 (ou poderá haver erros para abrir).
 - Baixe os arquivos: "Assets", "Packages" e "ProjectSettings".
 - Adicione eles à uma pasta.
 - E clique na Unity para abrir essa pasta.
+```
 
 E ao finalizar você poderá editar/jogar o projeto.
 
