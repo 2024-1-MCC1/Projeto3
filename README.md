@@ -38,45 +38,9 @@ Buscamos mostrar uma experiência envolvente, inspirando os jogadores a consider
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
   &emsp; &emsp;|-->Assets<br>
-  &emsp; &emsp; &emsp;|Animações<br>
-  &emsp; &emsp; &emsp;|Cenas<br>
-  &emsp; &emsp; &emsp;|Design<br>
-  &emsp; &emsp; &emsp;|Diálogo<br>
-  &emsp; &emsp; &emsp;|-->Materiais<br> 
-  &emsp; &emsp; &emsp; &emsp;|Fogo<br>
-  &emsp; &emsp; &emsp; &emsp;|Poço<br>
-  &emsp; &emsp; &emsp; &emsp;|Prefab<br>
-  &emsp; &emsp; &emsp; &emsp;|TextMesh Pro<br>
-  &emsp; &emsp; &emsp; &emsp;|Totems<br>
-  &emsp; &emsp; &emsp; &emsp;|Brilho.mat<br>
-  &emsp; &emsp; &emsp;|-->Cenas<br>
-  &emsp; &emsp; &emsp; &emsp;|Menu.unity<br>
-  &emsp; &emsp; &emsp; &emsp;|ForestDestroyed.unity<br>
-  &emsp; &emsp; &emsp; &emsp;|Forest.unity<br>
-  &emsp; &emsp; &emsp; &emsp;|End.unity<br>
-  &emsp; &emsp; &emsp;|-->Resources<br>
-  &emsp; &emsp; &emsp; &emsp;|BillingMode.json<br>
-  &emsp; &emsp; &emsp;|-->Scripts<br>
-  &emsp; &emsp; &emsp; &emsp;|-->Diálogo<br>
-  &emsp; &emsp; &emsp; &emsp; &emsp;|Collectible.cs<br>
-  &emsp; &emsp; &emsp; &emsp; &emsp;|CollectionManager.cs<br>
-  &emsp; &emsp; &emsp; &emsp; &emsp;|ConversationStart.cs<br>
-  &emsp; &emsp; &emsp; &emsp;|-->Interações<br>
-  &emsp; &emsp; &emsp; &emsp; &emsp;|BackgroundMusic.cs<br>
-  &emsp; &emsp; &emsp; &emsp; &emsp;|LevelLoader.cs<br>
-  &emsp; &emsp; &emsp; &emsp; &emsp;|StartFire.cs<br>
-  &emsp; &emsp; &emsp; &emsp; &emsp;|Visibility.cs<br>
-  &emsp; &emsp; &emsp; &emsp;|-->Menu<br>
-  &emsp; &emsp; &emsp; &emsp; &emsp;|Menu.cs<br>
-  &emsp; &emsp; &emsp; &emsp; &emsp;|PauseMenu.cs<br> 
-  &emsp; &emsp; &emsp; &emsp; &emsp;|ButtonPause.cs<br>
-  &emsp; &emsp; &emsp; &emsp; &emsp;|End.cs<br>
-  &emsp; &emsp; &emsp; &emsp;|-->Movimento<br>
-  &emsp; &emsp; &emsp; &emsp; &emsp;|MouseAround.cs<br>
-  &emsp; &emsp; &emsp; &emsp; &emsp;|Movement.cs<br>
-  &emsp; &emsp;|Packages<br>
-  &emsp; &emsp;|ProjectSettings<br>
-  &emsp; &emsp;|UserSettings<br>
+  &emsp; &emsp;|-->Packages<br>
+  &emsp; &emsp;|-->ProjectSettings<br>
+  &emsp; &emsp;|-->UserSettings<br>
   &emsp; &emsp;|.vsconfig<br>
 |.gitignore<br>
 |README.md<br>
@@ -86,7 +50,7 @@ Buscamos mostrar uma experiência envolvente, inspirando os jogadores a consider
 <b>Windows:</b>
 
 Não há instalação necessárias, baixe apenas o executável e rode.
-Encontre o <a href="https://github.com/2024-1-MCC1/Projeto3/tree/main/Executáveis">"Eco x Ego.exe"</a> na pasta de Executavéis e execute-o como qualquer outro programa.
+Encontre o "<a href="https://github.com/2024-1-MCC1/Projeto3/tree/main/Executáveis">Eco x Ego.exe</a>" na pasta de Executavéis e execute-o como qualquer outro programa.
 
 ## 💻 Configuração para Desenvolvimento
 
