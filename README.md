@@ -37,7 +37,7 @@ Buscamos mostrar uma experiência envolvente, inspirando os jogadores a consider
 |-->Src<br>
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
-  &emsp; &emsp;|-->Eco x Ego
+  &emsp; &emsp;|-->Eco x Ego<br>
   &emsp; &emsp; &emsp;|-->Assets<br>
   &emsp; &emsp; &emsp;|-->Packages<br>
   &emsp; &emsp; &emsp;|-->ProjectSettings<br>
