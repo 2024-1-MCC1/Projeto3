@@ -8,7 +8,7 @@
 
 ## Grupo_3_Eco_Go
 
-## Integrantes: <a href= "www.linkedin.com/in/gabrielmarussi">Gabriel Marussi</a>, <a href= "https://www.linkedin.com/in/raiany-lima-863b542b9">Raiany Lima</a>, Bruna Gonçalves. 
+## Integrantes: <a href= "https://www.linkedin.com/in/gabrielmarussi">Gabriel Marussi</a>, <a href= "https://www.linkedin.com/in/raiany-lima-863b542b9">Raiany Lima</a>, Bruna Gonçalves. 
 
 ## Professores Orientadores: <a href= "https://www.linkedin.com/in/victorbarq">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/fabiano-onça-3214a12">Fabiano Alves Onça</a>, <a href= "https://www.linkedin.com/in/adriano-valente-534576135">Adriano Valente</a>
 
@@ -16,7 +16,7 @@
 
 <p align="center">
 <img src="https://github.com/2024-1-MCC1/Projeto3/blob/73ab3e6ca10bf70795727eabff7e3570c12648a3/Imagens/Play.png" alt="Eco x Ego" border="0">
-  Game Design by <a href= "www.linkedin.com/in/gabrielmarussi">Gabriel Marussi</a>
+  Game Design by <a href= "https://www.linkedin.com/in/gabrielmarussi">Gabriel Marussi</a>
 </p>
 
 Meu projeto é uma colaboração com a FECAP, retratando-se como um jogo educativo desenvolvido na plataforma Unity utilizando a linguagem C#. Ele tem como objetivo fundamental promover uma mudança de mentalidade alinhada aos Objetivos de Desenvolvimento Sustentável (ODS) da ONU, com um foco a mais nos objetivos 13, 14 e 15.
