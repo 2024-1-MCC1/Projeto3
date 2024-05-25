@@ -50,8 +50,7 @@ Buscamos mostrar uma experiência envolvente, inspirando os jogadores a consider
 <b>Windows:</b>
 
 Não há instalação necessárias, apenas baixe os arquivos e você conseguirá jogar. Encontre a pasta de "<a href= "https://github.com/2024-1-MCC1/Projeto3/tree/main/Execut%C3%A1vel">Executavéis</a>" e baixe-o.
-Após isso, execute-o arquivo <a href="
-https://github.com/2024-1-MCC1/Projeto3/blob/main/Execut%C3%A1vel/Eco%20x%20Ego.exe">Eco x Ego.exe</a>" como qualquer outro programa.
+Após isso, execute-o arquivo "<a href="https://github.com/2024-1-MCC1/Projeto3/blob/main/Execut%C3%A1vel/Eco%20x%20Ego.exe">Eco x Ego.exe</a>" como qualquer outro programa.
 
 ## 💻 Configuração para Desenvolvimento
 
