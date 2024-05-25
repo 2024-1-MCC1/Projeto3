@@ -8,15 +8,15 @@
 
 ## Grupo_3_Eco_Go
 
-## Integrantes: Gabriel Marussi, Rayane Lima, Bruna Gonçalves. 
+## Integrantes: Gabriel Marussi, Rayane, Bruna Gonçalves. 
 
-## Professores Orientadores: Dr. Victor Von Doom
+## Professores Orientadores: <a href= "https://www.linkedin.com/in/victorbarq">Victor Bruno Alexander Rosetti de Quiroz</a>, Fabiano Alves Onça 
 
 ## Descrição:
 
 <p align="center">
 <img src="https://github.com/2024-1-MCC1/Projeto3/blob/73ab3e6ca10bf70795727eabff7e3570c12648a3/Imagens/Play.png" alt="Eco x Ego" border="0">
-  Game Design by <a href= "www.linkedin.com/in/gabrielmarussi">Gabriel Marussi</a> License CC BY-SA 3.0
+  Game Design by <a href= "www.linkedin.com/in/gabrielmarussi">Gabriel Marussi</a>
 </p>
 
 Meu projeto é uma colaboração com a FECAP, retratando-se como um jogo educativo desenvolvido na plataforma Unity utilizando a linguagem C#. Ele tem como objetivo fundamental promover uma mudança de mentalidade alinhada aos Objetivos de Desenvolvimento Sustentável (ODS) da ONU, com um foco a mais nos objetivos 13, 14 e 15.
@@ -85,23 +85,22 @@ Buscamos mostrar uma experiência envolvente, inspirando os jogadores a consider
 
 <b>Windows:</b>
 
-Encontre o "Eco x Ego.exe" na pasta de Download e execute-o como qualquer outro programa.
-Ou <a href="https://github.com/2024-1-MCC1/Projeto3/raw/bf04605349baec43f6bfba62593c8ac12cb1425f/Documentos/Eco%20x%20Ego.exe">clique aqui</a> para realizar a instalação direta.
+Não há instalação necessárias, baixe apenas o executável e rode.
+Encontre o <a href="https://github.com/2024-1-MCC1/Projeto3/tree/main/Executáveis">"Eco x Ego.exe"</a> na pasta de Executavéis e execute-o como qualquer outro programa.
 
 ## 💻 Configuração para Desenvolvimento
 
 Para abrir este projeto você necessita das seguintes ferramentas:
 
-<a href="https://unity.com/pt/download">Unity</a>
+Baixar a plataforma <a href="https://unity.com/pt/download">Unity</a> e baixar a <a href="https://unity.com/releases/editor/whats-new/2022.3.10">versão 2022.3.10</a> 
 
-Quando instlado a plataforma, siga as etapas:
-```sh
-Faça a instalação do Unity
-Adicione a pasta "Eco x Ego"
-E clique para abrir esse arquivo
-Abre a opção "Game" dentro do unity
-E agora é só jogar
-```
+Siga as etapas:
+
+- Faça a instalação do Unity
+- Utilize a versão criada 2022.3.10 (ou poderá haver erros para abrir)
+- Adicione a pasta "Eco x Ego" como projeto
+- E clique para abrir esse projeto
+Agora poderá editar ou jogar
 
 ## 🗃 Histórico de lançamentos
 
@@ -142,7 +141,7 @@ Aqui segue todas as atualizações realizadas, o Projeto3, segue só com a últi
 
 ## 🎓 Referências
 
-Aqui estão as referências e assets usados no projeto. Todos os assest com licensa de Unity <a href="https://unity.com/pt/legal/as-terms">"Standard Unity Asset Store EULA"</a>, onde permite: Incorporar, Reproduzir e Monetizar o Ativo, com exceção aos artigos estabelecido em 2.2.1.1 do contrato.
+Aqui estão as referências e assets usados no projeto. Referências de 1 a 8 são assets com licença da Unity <a href="https://unity.com/pt/legal/as-terms">"Standard Unity Asset Store EULA"</a>, onde permite: Incorporar, Reproduzir e Monetizar o Ativo, com exceção aos artigos estabelecido em 2.2.1.1 do contrato.
 
 1. Cenário: <https://assetstore.unity.com/packages/3d/environments/fantasy-landscape-103573>
 2. Player: <https://assetstore.unity.com/packages/3d/characters/humanoids/3d-anime-game-character-female-267371>
@@ -151,6 +150,7 @@ Aqui estão as referências e assets usados no projeto. Todos os assest com lice
 5. Diálogo: <https://assetstore.unity.com/packages/tools/utilities/dialogue-editor-168329>
 6. Fogo: <https://assetstore.unity.com/packages/vfx/particles/fire-explosions/free-fire-vfx-266227>
 7. Totems: <https://assetstore.unity.com/packages/3d/elemental-magic-totems-59522>
-8. Imagem de Menu por: <https://pixabay.com/pt/>
-9. Música por: <https://pixabay.com/pt/music/>
-10. Botão do Menu por: <https://pt.vecteezy.com/arte-vetorial/9726129-botao-de-pixel-art-estilo-pedra-para-jogo-e-app-interface-icone-vetor-para-jogo-8bit-em-fundo-branco>
+8. Imagem de Menu by "tohamina" - Freepik <https://www.freepik.com/free-ai-image/village-background-asset-game-2d-futuristic-generative-ai_43531747.htm> com uso de licença grátis
+9. Música 1 by "Geoff Harvey" - Pixabay <https://pixabay.com/pt/music/criancas-de-fantasia-e-sonhos-the-lights-of-the-village-190674>
+10. Música 2 by "Sound Gallery by Dmitry Taras" - Pixabay <https://pixabay.com/pt/music/musicas-infantis-assustadoras-dark-ambient-horror-cinematic-halloween-atmosphere-scary-118585> com uso de licença grátis
+11. Botão do Menu by "kalebsilva" - Vecteezy <https://pt.vecteezy.com/arte-vetorial/9726129-botao-de-pixel-art-estilo-pedra-para-jogo-e-app-interface-icone-vetor-para-jogo-8bit-em-fundo-branco> direito de licença com plano pro
