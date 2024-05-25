@@ -72,7 +72,7 @@ E ao finalizar você poderá editar/jogar o projeto.
 
 ## 🗃 Histórico de lançamentos
 
-Aqui segue todas as atualizações realizadas, o Projeto3, segue só com a última "Eco x Ego". Caso queiram ver todos as versões versão <a href="https://github.com/gabmarussi/Projeto_Integrador">clique aqui</a> e você verá meu repositorio com todos os arquivos mostrando a evolução.
+Aqui segue todas as atualizações realizadas, o Projeto3, segue só com a última "Eco x Ego". Caso queiram ver todos as versões versão <a href="https://github.com/gabmarussi/Projeto_Integrador">clique aqui</a> e você verá o repositorio by gabmarussi com todos os arquivos mostrando a nossa evolução.
 
 * Eco x Ego - 25/05/2024
     * Adicionado documentos e fotos 
