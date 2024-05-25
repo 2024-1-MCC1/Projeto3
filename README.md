@@ -8,7 +8,7 @@
 
 ## Grupo_3_Eco_Go
 
-## Integrantes: <a href= "https://www.linkedin.com/in/gabrielmarussi">Gabriel Marussi</a>, <a href= "https://www.linkedin.com/in/raiany-lima-863b542b9">Raiany Lima</a>, Bruna Gonçalves. 
+## Integrantes: <a href= "https://www.linkedin.com/in/gabrielmarussi">Gabriel Marussi</a>, <a href= "https://www.linkedin.com/in/raiany-lima-863b542b9">Raiany Lima</a>, <a href= "https://www.linkedin.com/in/bruna-sophia-gon%C3%A7alves-80a526278/">Bruna Gonçalves</a> 
 
 ## Professores Orientadores: <a href= "https://www.linkedin.com/in/victorbarq">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/fabiano-onça-3214a12">Fabiano Alves Onça</a>, <a href= "https://www.linkedin.com/in/adriano-valente-534576135">Adriano Valente</a>
 
