@@ -30,18 +30,17 @@ Buscamos mostrar uma experiência envolvente, inspirando os jogadores a consider
 |<br>
 |-->Documentos<br>
   &emsp;|Projeto_de_Extensão.dock<br>
- |-->Executáveis<br>
+ |-->Executável<br>
    &emsp;|Eco x Ego.exe<br> 
 |-->Imagens<br>
   &emsp;|Play.png<br>
 |-->Src<br>
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
-  &emsp; &emsp;|-->Assets<br>
-  &emsp; &emsp;|-->Packages<br>
-  &emsp; &emsp;|-->ProjectSettings<br>
-  &emsp; &emsp;|-->UserSettings<br>
-  &emsp; &emsp;|.vsconfig<br>
+  &emsp; &emsp;|-->Eco x Ego
+  &emsp; &emsp; &emsp;|-->Assets<br>
+  &emsp; &emsp; &emsp;|-->Packages<br>
+  &emsp; &emsp; &emsp;|-->ProjectSettings<br>
 |.gitignore<br>
 |README.md<br>
 
