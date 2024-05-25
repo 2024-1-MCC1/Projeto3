@@ -8,9 +8,9 @@
 
 ## Grupo_3_Eco_Go
 
-## Integrantes: Gabriel Marussi, Rayane, Bruna Gonçalves. 
+## Integrantes: <a href= "www.linkedin.com/in/gabrielmarussi">Gabriel Marussi</a>, <a href= "https://www.linkedin.com/in/raiany-lima-863b542b9">Raiany Lima</a>, Bruna Gonçalves. 
 
-## Professores Orientadores: <a href= "https://www.linkedin.com/in/victorbarq">Victor Bruno Alexander Rosetti de Quiroz</a>, Fabiano Alves Onça 
+## Professores Orientadores: <a href= "https://www.linkedin.com/in/victorbarq">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/fabiano-onça-3214a12">Fabiano Alves Onça</a>, <a href= "https://www.linkedin.com/in/adriano-valente-534576135">Adriano Valente</a>
 
 ## Descrição:
 
