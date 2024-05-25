@@ -60,11 +60,13 @@ Baixar a plataforma <a href="https://unity.com/pt/download">Unity</a> e baixar a
 
 Siga as etapas:
 
-- Faça a instalação do Unity
-- Utilize a versão criada 2022.3.10 (ou poderá haver erros para abrir)
-- Adicione a pasta "Eco x Ego" como projeto
-- E clique para abrir esse projeto
-Agora poderá editar ou jogar
+- Faça a instalação do Unity.
+- Utilize a versão criada 2022.3.10 (ou poderá haver erros para abrir).
+- Baixe os arquivos: "Assets", "Packages" e "ProjectSettings".
+- Adicione eles à uma pasta.
+- E clique na Unity para abrir essa pasta.
+
+E ao finalizar você poderá editar/jogar o projeto.
 
 ## 🗃 Histórico de lançamentos
 
